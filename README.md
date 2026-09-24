@@ -17,3 +17,7 @@ Serveren starter med å taste inn dev kommandoen pnpm, og da kommer det en link 
 
 ## Utvikling
 Prosjektet bruker vite som utviklingsserver 
+
+## Prosjetskruktur
+
+Prosjekter består av en enjel index.html-fil som er entrypointet for nettsiden
