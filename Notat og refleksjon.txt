@@ -1,0 +1,5 @@
+Refleksjon Notat.
+I denne oppgaven har vi lært å bruke Git og Github til å holde styr på prosjektet. jeg har forstått at save,commit og push er tre forskjellige ting. Save lagrer endringer i en fil på datamaskinen. mens commit lagrer den i git historikken lokalt, mens push sender commitene til Github.
+et lokalt respository er oppgaven som ligger på min datamaskin. en remote respository ligger på en ekstern tjeneste som GitHub. Ved å bruke begge kan jeg jobbe med prosjektet lokalt og samtidig ha en kopi.
+Git historikken gjør det mulig å se hvilke enderinger som er gjort, når de ble gjort. og hvem. jeg kan bruke kommandoen git log for å se commitene. dette er nyttig hvis jeg vil se hvordan projektet har utviklet seg eller finne fram enderinger.
+jeg har også lært at gode commit meldinger er viktig en tydelig melding, vil forkalre hva som ble endret. og kan gi en grunn og forståelse av enderingene som ble gjort. i bunn og grunn har jeg fått en generel følelse på hvordan Git og GitHub kan bruker til å organisere, dokumentere og holde oversikt.
